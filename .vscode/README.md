@@ -1,4 +1,4 @@
-<h1 align="center"> Site portfólio </h1>
+<h1 align="center"> Site de portfólio </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pelo próprio Lorenzo Matheo para agregar links
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Site de portfólio é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
